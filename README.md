@@ -40,10 +40,10 @@ Adding mailhog just for testing for this project, we can setup separate mail ser
 <br/>
 
 **7) Add security group for port 3000,8086,8083 and Open browser server's-public-ip:3000**
-Login with admin and P@ssword 
-Import data source influxdb > configure ( url, database name, username, password)
-Import Dashboard with ID 10557
-You will be able to see dashboard with Jenkins data
+Login with admin and P@ssword <br/>
+Import data source influxdb > configure ( url, database name, username, password)<br/>
+Import Dashboard with ID 10557<br/>
+You will be able to see dashboard with Jenkins data<br/>
 
 **Done**
 
