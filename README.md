@@ -35,6 +35,6 @@ Adding mailhog just for testing for this project, we can setup separate mail ser
 **6) Add influxDB plugin to Jenkins for grafana and configure** 
 <br/>
 
-**7) Open browser server's-public-ip:3000**
+**7) Add security group for port 3000 and Open browser server's-public-ip:3000**
 
 
