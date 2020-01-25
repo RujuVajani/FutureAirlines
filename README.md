@@ -1,9 +1,10 @@
 # NeoAirlines <br/>
 Neo Airlines - Infrastructure as Code, CI/CD jenkins pipelines <br/>
 
-**Steps:** <br/>
+**Steps:** 
+<br/>
 
-**1) Setup Jenkins - Infrastructure as code ** <br/>
+**1) Setup Jenkins - Infrastructure as code** <br/>
 
 Use below command to create stack for jenkins  <br/>
 
@@ -31,8 +32,9 @@ Adding mailhog just for testing for this project, we can setup separate mail ser
 
 **5) Add Jenkinsfile to code repo** <br/>
 
-**6) Add influxDB plugin to Jenkins for grafana and configure** <br/>
+**6) Add influxDB plugin to Jenkins for grafana and configure** 
+<br/>
 
-**7) Open browser server's-public-ip:3000
+**7) Open browser server's-public-ip:3000**
 
 
